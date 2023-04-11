@@ -1,5 +1,5 @@
 public static class arpansucks() {
     public static void main(String[] args) {
-        System.out.println("Arpan sucks ass");
+        System.out.println("Hello World");
     }
 }
